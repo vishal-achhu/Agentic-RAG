@@ -269,6 +269,6 @@ data/docs · data/eval # sample knowledge base · golden evaluation set
 
 ## 👤 Author
 
-**[Your Name]** · [LinkedIn](https://linkedin.com/in/your-handle) · [GitHub](https://github.com/your-handle) · your.email@example.com
+Vishal Bhat U S · [LinkedIn]((https://linkedin.com/in/vishal-bhat-u-s/))  · vishalus307@gmail.com
 
 *Built as a portfolio project to demonstrate end-to-end Gen AI engineering: retrieval, agents, safety, serving and evaluation.*
